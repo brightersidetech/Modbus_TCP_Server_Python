@@ -1,2 +1,2 @@
-# Modbus_TCP_Server_Pyhton
+# Modbus TCp Server in Python
 Modbus TCP Server Implementation in python
