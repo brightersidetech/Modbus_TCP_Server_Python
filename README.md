@@ -7,3 +7,6 @@ The ```server_minimal``` is a basic implementation where only the clinet can wri
 - Install the ```pyModbusTCP``` library by running the following command: ```pip install pyModbusTCP```. 
 - Set your prefered ethernet interface and port on which the server will listen by setting the ```host``` and ```port``` varaibles. The ```0.0.0.0``` will map to all interfaces
 - Run the script, for example: ```python server_minimal.py```
+
+### Demo and usage
+- [![Watch video here](./Thumbnail.png)](https://youtu.be/7m71nT5qZwk)
