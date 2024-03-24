@@ -9,4 +9,5 @@ The ```server_minimal``` is a basic implementation where only the clinet can wri
 - Run the script, for example: ```python server_minimal.py```
 
 ### Demo and usage
-- [![Watch video here](./Thumbnail.png)](https://youtu.be/7m71nT5qZwk)
+- Click Video below to watch
+[![Watch video here](./Thumbnail.png)](https://youtu.be/7m71nT5qZwk)
